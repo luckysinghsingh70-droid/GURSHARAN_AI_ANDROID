@@ -1,0 +1,40 @@
+{
+  "appName": "GURSHARAN AI",
+  "platforms": [
+    "Windows Desktop/Laptop",
+    "Android"
+  ],
+  "languages": [
+    "Hindi (Devanagari)",
+    "English",
+    "Punjabi"
+  ],
+  "modes": [
+    "Personal Companion",
+    "Master Agent",
+    "Computer",
+    "Engineering",
+    "Communication",
+    "Web & Research"
+  ],
+  "speakerProfiles": [
+    "Owner",
+    "Wife",
+    "Children",
+    "Mother"
+  ],
+  "ownerOnlySecurity": [
+    "Payment",
+    "OTP",
+    "PIN",
+    "Password",
+    "Banking"
+  ],
+  "customization": [
+    "Agent Name",
+    "Avatar",
+    "Voice",
+    "Persona",
+    "Field"
+  ]
+}
